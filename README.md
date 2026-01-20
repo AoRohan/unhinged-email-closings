@@ -1,2 +1,3 @@
 # unhinged-email-closings
-Small school project testing
+Small school project
+Fixing some issues
